@@ -33,11 +33,6 @@
 </p>
 
 
-### 📫 Let's Connect!  
-<p align="center">
-  <a href="www.linkedin.com/in/marcel-seremak-823a2a2a5"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
 ---
 
 ⭐ **Feel free to explore my repositories and connect with me!** 🚀
